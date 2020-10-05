@@ -1,7 +1,9 @@
 미팅캘린더 봇
 =============
 <img src="https://user-images.githubusercontent.com/39210160/95098634-e6331500-0769-11eb-9e32-5eae65ea2f0f.JPG">
-[미팅캘린더] (https://pf.kakao.com/_LDycT)
+
+카카오톡 채널: [미팅캘린더 봇][link]
+[link]: https://pf.kakao.com/_LDycT
 💬 카카오챗봇에 구글 캘린더 연동 프로젝트
 
 # 소개
@@ -26,7 +28,7 @@
 - Visual Studio Code
  ```
 npm install
-node bin/www index.js
+node index.js
 ```
 
 ## 정보
