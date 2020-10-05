@@ -20,3 +20,16 @@ calendarBot
 <img src="https://user-images.githubusercontent.com/39210160/95099081-6e191f00-076a-11eb-9eb8-afd6ad1dec68.png">
 <img src="https://user-images.githubusercontent.com/39210160/95099113-7a04e100-076a-11eb-9f0b-7d197e78e4a3.png">
 <img src="https://user-images.githubusercontent.com/39210160/95099129-7cffd180-076a-11eb-9469-e90404e71685.png">
+
+
+## 개발환경
+- Visual Studio Code
+ ```
+npm install
+node bin/www index.js
+```
+
+## 정보
+- 서버: Nodejs + MongoDB
+- 개발자: 추승지
+- 문의사항 : csgm2328@jbnu.ac.kr
