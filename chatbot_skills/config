@@ -1,0 +1,16 @@
+{
+  "port": 3000,
+  "api_key": "",
+  "proxy": "/chatbot_skills/api",
+  "admin": {
+    "id": "admin",
+    "password": "admin"
+  },
+  "database": {
+    "db": "meeting",
+    "user": "root",
+    "password": "1234",
+    "host": "localhost",
+    "port": 27016
+  }
+}
