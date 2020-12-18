@@ -13,6 +13,7 @@
 ## 챗봇 시나리오
 
 <img src="https://user-images.githubusercontent.com/39210160/95098862-2d210a80-076a-11eb-87f8-4cf125fbe60f.png">
+<img src="https://user-images.githubusercontent.com/39210160/102593795-a4a2eb00-4158-11eb-9033-0e15a40870e2.jpg">
 <img src="https://user-images.githubusercontent.com/39210160/95098944-475ae880-076a-11eb-883d-384fdd3b0a66.png">
 <img src="https://user-images.githubusercontent.com/39210160/95099017-59d52200-076a-11eb-878c-960f087425af.png">
 <img src="https://user-images.githubusercontent.com/39210160/95099035-5f326c80-076a-11eb-8aff-a8c815823ff9.png">
