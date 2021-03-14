@@ -10,6 +10,11 @@
 카카오챗봇을 통해 OAuth2.0 인증을 거쳐 상대방의 구글 캘린더에 직접 일정을 등록할 수 있습니다!
 
 
+## 챗봇 구조
+
+<img src="https://user-images.githubusercontent.com/39210160/111056024-fdb3be00-84be-11eb-8557-2acf31b7bddb.JPG">
+
+
 ## 챗봇 시나리오
 
 <img src="https://user-images.githubusercontent.com/39210160/95098862-2d210a80-076a-11eb-87f8-4cf125fbe60f.png">
