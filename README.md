@@ -30,16 +30,14 @@
 
 
 ## 개발환경
-- Linux
-- Chatbot service of Kakao Developer
-- Google Developers API
+- Nodejs Express
+- Kakao Chatbot Build Platform
+- Google Calendar API
  ```
 npm install
 node index.js
 ```
 
 ## 정보
-- 서버: Nodejs + MongoDB
-- 기술: REST API
 - 개발: 추승지
 - 문의사항 : csgm2328@jbnu.ac.kr
