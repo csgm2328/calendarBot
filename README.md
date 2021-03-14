@@ -12,7 +12,7 @@
 
 ## 챗봇 구조
 
-<img src="https://user-images.githubusercontent.com/39210160/111056024-fdb3be00-84be-11eb-8557-2acf31b7bddb.JPG">
+<img src="https://user-images.githubusercontent.com/39210160/111056291-32c11000-84c1-11eb-8e86-6680f782be05.JPG">
 
 
 ## 챗봇 시나리오
